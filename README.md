@@ -1,6 +1,6 @@
 # Glaucoma-and-non-Glaucoma-classification
  Overview
-		Our project aims to assist individuals in detecting signs of glaucoma conveniently using a mobile phone camera. Glaucoma is a prevalent eye condition that often goes undetected 		until advanced stages. By leveraging a smartphone's camera and specialized lens, we provide a user-friendly platform for conducting preliminary eye examinations remotely.
+		 project aims to assist individuals in detecting signs of glaucoma conveniently using a mobile phone camera. Glaucoma is a prevalent eye condition that often goes undetected 		until advanced stages. By leveraging a smartphone's camera and specialized lens, we provide a user-friendly platform for conducting preliminary eye examinations remotely.
 
  Features
 		Mobile Eye Examination: Users can conduct eye examinations using their mobile phones equipped with a specific lens attachment.
